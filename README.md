@@ -1,5 +1,39 @@
 # Machine Learning
 
+You can find Machine Learning exercises that are a continuation of the INSA Toulouse course.
+
+During these exercises, you will find exercises that focus on different topics related to Machine Learning.
+
+We will cover several approaches:
+
+* **Supervised approaches:**
+    * Perceptron (linear regression & gradient descent)
+    * Neural networks (Multi-layer perceptron (MLP))
+    * Decision trees
+* **Unsupervised approaches:**
+    * Clustering methods
+        * K-means
+        * K-medoids
+        * Agglomerative clustering
+        * DBSCAN
+        * HDBSCAN
+
+In each approach, we will discuss and highlight their characteristics/properties, such as the notion of:
+
+* **Similarity/distance:** Euclidean, Manhattan, Hamming...
+* **Evaluation of approaches:** MSE, MAE, RMSE, Silhouette score...
+* **Loss function**
+* **Regression (prediction)/classification**
+* **Cross-validation**
+* **Overfitting**
+* **Activation functions:** logistic/sigmoid, Rectified Linear Unit (ReLU), Softplus, tanh...
+* **Backpropagation**
+* **Pooling**
+
+
+
+# Machine Learning
+
 Vous pouvez trouver des TPs en lien avec le Machine Learning qui font suite au cours de l'INSA Toulouse. 
 
 Au cours de ces TP, vous trouverez des TP qui auront des focus sur des sujets différents en lien avec le Machine Learning.
